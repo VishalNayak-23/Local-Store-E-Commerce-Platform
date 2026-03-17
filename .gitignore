@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Lock files (optional to push)
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment files (keep secrets safe)
+.env
+.env.local
